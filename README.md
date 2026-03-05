@@ -105,4 +105,7 @@ If you are interested in contributing, testing, or collaborating, reach out.
 
 TBD
 
-Copyright © Honest Ape LLC
+Humanatee and Honest Ape are trademarks of Honest Ape LLC.
+
+© 2026 Honest Ape LLC
+All rights reserved.
